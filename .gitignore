@@ -1,0 +1,11 @@
+.trellis/
+.agents/
+.codex/
+frostburg.instructure.com/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.log
+*.tmp
